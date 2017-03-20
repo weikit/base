@@ -5,7 +5,7 @@ namespace Weikit\Base;
  * Object 基类
  * @package Weikit\Base
  */
-class Object
+class Object implements Configurable
 {
     /**
      * Returns the fully qualified name of this class.
