@@ -1,0 +1,22 @@
+{
+    "name": "weikit/base",
+    "description": "The base components for WeiKit.",
+    "keywords": ["weikit", "base"],
+    "homepage": "https://github.com/weikit/base",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Long Zhang",
+            "email": "callme-z@qq.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/weikit/base/issues?state=open",
+        "wiki": "https://github.com/weikit/base/wiki/",
+        "source": "https://github.com/weikit/base"
+    },
+    "autoload": {
+        "files": ["src/helpers.php"],
+        "psr-4": {"Weikit\\Base\\": "src"}
+    }
+}
