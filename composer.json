@@ -1,6 +1,6 @@
 {
     "name": "weikit/base",
-    "description": "The base components for WeiKit.",
+    "description": "The base component for WeiKit.",
     "keywords": ["weikit", "base"],
     "homepage": "https://github.com/weikit/base",
     "license": "MIT",
@@ -12,7 +12,7 @@
     ],
     "support": {
         "issues": "https://github.com/weikit/base/issues?state=open",
-        "wiki": "https://github.com/weikit/base/wiki/",
+        "wiki": "https://github.com/weikit/base/wiki",
         "source": "https://github.com/weikit/base"
     },
     "autoload": {
